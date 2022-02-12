@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Falling-Word-Babbel</string>
+    <string name="game_rules">"
+1. You can play this game in two modes
+        -English to Spanish
+        -Spanish to English
+2. You can change the mode from below before starting the game
+3. Question word will change after five falling words
+4. Tap “Correct” button if the falling word is a correct translation
+5. Tap “Wrong” button if the falling word is a wrong translation
+6. For one correct answer score will be +100
+7. For one wrong answer score will be -50
+8. For no answer penalty will -100 of score
+9. Total five lives available
+10. Good luck!"
+</string>
+</resources>
